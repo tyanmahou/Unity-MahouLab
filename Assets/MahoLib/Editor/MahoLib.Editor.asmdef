@@ -1,0 +1,18 @@
+{
+    "name": "MahoLib.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:80c789f1df9410e4b8440055d85be074"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
